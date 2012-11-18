@@ -6,3 +6,4 @@ The custom js plugins have been generated from the appropriate plugin sites suit
 jQuery Tools: http://jquerytools.org/download/
 Modernizr: http://modernizr.com/download
 Twitter Bootstrap JS: http://twitter.github.com/bootstrap/customize.html
+Jansy Bootstrap JS: http://jasny.github.com/bootstrap/customize.html
